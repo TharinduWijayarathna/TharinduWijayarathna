@@ -12,13 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/umeshmadushan5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umeshmadushan5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umesh-madushan-46b163226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh-madushan-46b163226" height="30" width="40" /></a>
-<a href="https://instagram.com/_mr.u_m_e_s_h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.u_m_e_s_h" height="30" width="40" /></a>
+<a href="https://twitter.com/wikum1100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Wikum1100" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tharindu-wijayarathna-98499a203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh-madushan-46b163226" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tharindu_ww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharindu" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshmadushan&show_icons=true&locale=en&layout=compact" alt="umeshmadushan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshmadushan&show_icons=true&locale=en" alt="umeshmadushan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshmadushan&" alt="umeshmadushan" /></p>
