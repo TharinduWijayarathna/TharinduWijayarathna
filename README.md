@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmadushan&label=Profile%20views&color=0e75b6&style=flat" alt="umeshmadushan" /> </p> -->
-<p align="left"> <img src="https://camo.githubusercontent.com/c1440c268f851ed76ac595b1e62fa9fbf032ca04310d0bf99b953aac746fd3d5/68747470733a2f2f63646e2e6d79706f7274666f6c696f2e636f6d2f32666366636231303337383832353134353061383330343337386466666465642f61363263303437662d383336392d343933632d616231342d3731656635316265626335355f72775f313230302e6769663f683d6538633763653535623332363331396561636133313663633165373435313866" alt="umeshmadushan" /> </p>
+<p align="left"> <img src="" alt="umeshmadushan" /> </p>
 
 - 💬 Ask me about **Laravel, JAVA, Flutter, Dart, Javascript, Vue**
 
