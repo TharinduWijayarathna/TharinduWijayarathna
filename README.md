@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/TharinduWijaya4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Wikum1100" height="30" width="40" /></a>
+<a href="https://twitter.com/TharinduWijaya4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="Wikum1100" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tharindu-wijayarathna-98499a203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh-madushan-46b163226" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tharindu_ww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharindu" height="30" width="40" /></a>
 </p>
