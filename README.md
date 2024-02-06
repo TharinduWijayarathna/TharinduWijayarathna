@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Tharindu Wijayarathna</h1>
 <h3 align="center">Associate Software Engineer at CyberElysium</h3>
 
-<p align="left"> <img src="https://www.springboard.com/blog/wp-content/uploads/2022/09/entry-level-programmer-jobs.jpg" alt="tharinduwikum" /> </p>
-
 - 💬 Ask me about **Laravel, JAVA, Flutter, Dart, Javascript, Vue**
 
 - 📫 How to reach me **tharinduwijayarathne87@gmail.com**
