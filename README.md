@@ -4,7 +4,7 @@
 <h3 align="center">Associate Software Engineer at CyberElysium</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="[hc://komarev.com/ghpvc/?username=umeshmadushan&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fentry-level-programmer-jobs%2F&psig=AOvVaw2CxUQVBolrLVXjB1YBUgln&ust=1707313407413000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODvqZzsloQDFQAAAAAdAAAAABAS)" alt="tharinduwikum" /> </p>
+<p align="left"> <img src="https://www.springboard.com/blog/wp-content/uploads/2022/09/entry-level-programmer-jobs.jpg" alt="tharinduwikum" /> </p>
 
 - 💬 Ask me about **Laravel, JAVA, Flutter, Dart, Javascript, Vue**
 
