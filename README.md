@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Laravel, JAVA, Flutter, Dart, Javascript, Vue**
 
-- 📫 How to reach me **tharinduwijayarathne87@gmail.com**
+- 📫 How to reach me **wikum.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
