@@ -1,28 +1,11 @@
 
 ### Hi there 👋
 
-Hi, I am Swastik Baranwal from New Delhi, India. I am a developer and the creator of [Box CLI Maker](https://github.com/Delta456/box-cli-maker), an open-source contributor, part of [The V Programming Language](vlang.io) as one of the core developers, [FOSS United](fossunited.org) CFP volunteer and also organize FOSS meetups in Delhi. I maintain and contribute to several open-source projects and organizations, and I am also part of [nixpkg-maintainers](https://github.com/NixOS) team at [NixOS](https://nixos.org/) and [catppuccin](https://github.com/catppuccin), moderate on [Dev.to](https://dev.to/) for several tags, volunteering and co-organizing many tech events based in Delhi, a technical speaker as well.
+Hi, I am Tharindu Wijayarathna, a Software Engineer from Sri Lanka 🇱🇰. I am a Software Engineering Undergraduate at Cardiff Metropolitan University, UK. I am passionate about building software and learning new technologies. I am making new composer and npm packages as a hobby to help people to do their developing activities very fast. I can make robust, user friendly and well optimized web apps for clients.
 
-Previously I interned at [Effective.AF](https://effective.af/) where I worked as an SDE Intern and worked with Go, JS/TS, and Svelte.
+I previously worked as a Software Engineer at [CyberElysium](https://www.cyberelysium.com/), a software product engineering company in Sri Lanka. I have experience in developing web applications using technologies such as PHP, Laravel, Vue.js, React.js, Node.js, and MySQL. I have also worked on projects that involve technologies such as Docker, AWS, and CI/CD pipelines.
 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯 ([Proof](https://github.com/gvanrossum/patma/issues/89#issuecomment-649210954))
-
-[![Swastik Baranwal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Swastik Baranwal's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-### Open Source Friday with GitHub 💿
-
-<div style="display: flex; justify-content: center; align-items: center; height: 400px;">
-  <a href="https://www.youtube.com/watch?v=gs8FFp0rAbk">
-   <img src="https://i.ytimg.com/vi/gs8FFp0rAbk/maxresdefault.jpg?v=6660cddb" alt="Thumbnail"  height="80%" width="60%">
-  </a>  
-</div>
-
-Learn more about me from this podcast 🎙
-
-<!---
+-
 
 ### Programming Languages 🌐
 
@@ -48,7 +31,7 @@ Learn more about me from this podcast 🎙
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="28">](https://www.docker.com/) |[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/kubernetes.png" alt="kubernetes logo" width="26">](https://kubernetes.io/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/codecov.png" alt="codecov logo" width="24">](https://codecov.io/)| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30">](https://jupyter.org/)
 |---|---|---|---|---|
 
--->
+
 
 ### Other Accounts 📫
 
