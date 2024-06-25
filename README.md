@@ -2,7 +2,7 @@
 
 Greetings! I'm Tharindu Wijayarathna, a dedicated Software Engineer hailing from Sri Lanka 🇱🇰. Currently pursuing my undergraduate degree in Software Engineering at Cardiff Metropolitan University, UK, I am deeply passionate about crafting software and exploring cutting-edge technologies. As a hobbyist, I actively create Composer and npm packages to facilitate rapid development for fellow enthusiasts.
 
-Previously, I served as a Software Engineer at [CyberElysium](https://cyberelysium.com/), a prominent software product engineering firm based in Sri Lanka. Currently, I am also working at [LivendraSoft](https://livendrasoft.com/), a software solutions company, where I continue to refine my skills as a Software Engineer. My expertise lies in developing robust, user-friendly, and optimized web applications for various clients.
+Previously, I served as a Software Engineer at [CyberElysium](https://cyberelysium.com/), a prominent software product engineering firm based in Sri Lanka. My expertise lies in developing robust, user-friendly, and optimized web applications for various clients.
 
 ### Technical Proficiency 💻
 
