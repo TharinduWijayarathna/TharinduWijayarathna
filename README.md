@@ -4,8 +4,6 @@ Greetings! I'm Tharindu Wijayarathna, a dedicated Software Engineer from Sri Lan
 
 Previously, I served as a Software Engineer at [CyberElysium](https://cyberelysium.com/), a prominent software product engineering firm based in Sri Lanka, and at [EmergentSpark](https://emergentspark.com/), specializing in creating custom websites and systems for businesses and personal use. Currently, I am working at [Eequate](https://eequate.com/).
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TharinduWijayarathna&theme=github-dark&hide_border=true&card_width=1000)
-
 ### Technical Proficiency 💻
 
 My skill set encompasses proficiency in:
