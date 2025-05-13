@@ -2,8 +2,6 @@
 
 Greetings! I'm Tharindu Wijayarathna, a dedicated Software Engineer from Sri Lanka 🇱🇰. I am currently pursuing my undergraduate degree in Software Engineering at Cardiff Metropolitan University, UK. I am deeply passionate about crafting software and exploring cutting-edge technologies. As a hobbyist, I actively create Composer and NPM packages to facilitate rapid development for fellow enthusiasts.
 
-Previously, I served as a Software Engineer at [CyberElysium](https://cyberelysium.com/), a prominent software product engineering firm based in Sri Lanka, and at [EmergentSpark](https://emergentspark.com/), specializing in creating custom websites and systems for businesses and personal use. Currently, I am working at [Eequate](https://eequate.com/).
-
 ### Technical Proficiency 💻
 
 My skill set encompasses proficiency in:
