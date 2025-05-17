@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Greetings! I'm Tharindu Wijayarathna, a dedicated Software Engineer from Sri Lanka 🇱🇰. I am currently pursuing my undergraduate degree in Software Engineering at Cardiff Metropolitan University, UK. I am deeply passionate about crafting software and exploring cutting-edge technologies. As a hobbyist, I actively create Composer and NPM packages to facilitate rapid development for fellow enthusiasts.
+Greetings! I'm Tharindu Wijayarathna, a dedicated Software Engineer from Sri Lanka 🇱🇰. I am deeply passionate about crafting software and exploring cutting-edge technologies. As a hobbyist, I actively create Composer and NPM packages to facilitate rapid development for fellow enthusiasts.
 
 ### Technical Proficiency 💻
 
