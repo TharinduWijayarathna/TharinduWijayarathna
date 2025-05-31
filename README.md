@@ -5,9 +5,9 @@ Greetings! I'm Tharindu Wijayarathna, a dedicated Software Engineer from Sri Lan
 ### Technical Proficiency 💻
 
 My skill set encompasses proficiency in:
-- PHP, Laravel, Node.js for backend development
+- Rust, Laravel, PHP, Node.js, and Python for backend development
 - Vue.js and React.js for frontend development
-- MySQL and MongoDB for database management
+- MySQL, SQLite, PostgreSQL, and MongoDB for database management
 - Docker, AWS, and CI/CD pipelines for efficient deployment processes.
 
 ### Connect with Me 📫
